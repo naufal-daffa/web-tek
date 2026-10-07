@@ -1,0 +1,25 @@
+Semua file di folder ini adalah file yang dipake peserta pas ngerjain LKS nya.
+
+-----------------------------
+LIST FILE
+-----------------------------
+
+• Informasi dan Kisi-Kisi Web
+  - File diberikan beberapa hari sebelum lomba
+  - Seminggu sebelum lomba kalo nggak salah.
+
+• MODULE_CLIENT_SIDE-Rev00.zip
+  - Module game
+  - Isinya asset-asset dan panduan buat module yang game.
+
+• MODULE_MOBILE_SERVICE.zip
+  - Module mobile web
+  - File-file terkait pengerjaan di Module yang mobile web.
+
+• MODULE_SERVER_SIDE.zip
+  - Module Frontend & Backend
+  - Isinya file-file dan panduan pengerjaan yang Frontend & Backend.
+
+
+
+Mas Bagas - 2025

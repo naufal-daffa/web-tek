@@ -1,0 +1,29 @@
+Semua file .ZIP ini adalah hasil pekerjaan saya, terus dikumpulin di FTP yang dikasih sama panitia.
+
+--------------------------------------
+LIST MODULE HASIL PEKERJAAN SAYA
+--------------------------------------
+
+1. CLIENT_MODULE.zip
+   - Keterangan: Module yang bikin game.
+   - Detail: LKS 2025 disuruh membuat game Bombskuy, game semacam Bomberman.
+
+2. MOBILE_SERVICE_MODULE.zip
+   - Keterangan: Module membuat mobile app.
+   - Detail: Gue pakai Vue, lupa isinya apa aja. Bisa diliat langsung isinya.
+
+3. SERVER_MODULE.zip
+   - Keterangan: Module Frontend & Backend digabung.
+   - Detail: Sebenernya ini module frontend sama backend, tapi pas mau dikumpulin, kata panitia harus ada file .ZIP yang isinya module Frontend & Backend.
+
+4. SERVER_MODULE_BACKEND.zip
+   - Keterangan: Module membuat API.
+   - Detail: Pake Laravel.
+
+5. SERVER_MODULE_FRONTEND.zip
+   - Keterangan: Module untuk consume API.
+   - Detail: Bisa pake React, Vue, atau framework JS lain (lupa hehe).
+
+
+
+Mas Bagas - 2025
